@@ -21,3 +21,10 @@ test_script:
 
 # Don't actually build.
 build: off
+
+#Reauthorized for the error
+#The build phase is set to "MSBuild" mode (default), but no Visual Studio project
+#or solution files were found in the root directory.
+#If you are not building Visual Studio project switch build mode to "Script"
+#and provide your custom build command.
+
