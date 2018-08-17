@@ -20,7 +20,7 @@ test_script:
   - npm test
 
 # Don't actually build.
-build: off
+#build: off
 
 #Reauthorized for the error
 #The build phase is set to "MSBuild" mode (default), but no Visual Studio project
